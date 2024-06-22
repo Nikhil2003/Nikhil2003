@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil2003&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil2003" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhil2003" alt="nikhil2003" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://nikhilportfolio01.netlify.app/](https://nikhilportfolio01.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
